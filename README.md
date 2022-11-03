@@ -79,7 +79,7 @@
 <a href="https://blogs.windows.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.apple.com/la/macos/ventura/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
-<a href="https://www.apple.com/la/macos/ventura/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="40" height="40"/>
+<a href="https://open.spotify.com/user/lordlierfrog73?si=79c44c868c3a4233&nd=1" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="40" height="40"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablofr73&show_icons=true&locale=en&layout=compact" alt="pablofr73" /></p>
