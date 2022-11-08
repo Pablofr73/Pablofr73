@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pablo 🐢</h1>
-<h3 align="center">A passionate developer from Mexico City</h3>
+<h3 align="center">A passionate developer from Mexico City 🤠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablofr73&label=Profile%20views&color=0e75b6&style=flat" alt="pablofr73" /> </p>
 
-- 🔭 I’m currently working on **Develop my skills**
+- 👨🏿‍💻 I’m currently working on **Develop my skills**
 
-- 🌱 I’m currently learning **Python**
+- 🐍 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **new projects**
+- 🤝 I’m looking to collaborate on **new projects**
 
-- 🤝 I’m looking for help with **Excel**
+- 💾 I’m looking for help with **Excel**
 
-- 👨‍💻 All of my projects are available at [https://pablofr.me/](https://pablofr.me/)
+- 💻 All of my projects are available at [My site](https://pablofr.me/)
 
 - 💬 Ask me about **my dog 🐶**
 
-- 📫 How to reach me **Pablofranc073@outlook.com**
+- ✉️ How to reach me **Pablofranc073@outlook.com**
 
-- ⚡ Fun fact **I hate league of legends**
+- 🦆 Fun fact **I love the Christmas 🎅🏼🎄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
