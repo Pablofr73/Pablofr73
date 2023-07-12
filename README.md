@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐿️, I'm Pablo 🐢</h1>
-<h3 align="center">A passionate developer from Mexico City, I enjoy video games and programming things that are useful to me and can serve others. Currently, I work in software development, but I plan to transition to cybersecurity. 🤠</h3>
+<h3 align="left">A passionate developer from Mexico City, I enjoy video games and programming things that are useful to me and can serve others. Currently, I work in software development, but I plan to transition to cybersecurity. 🤠</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablofr73&label=Profile%20views&color=0e75b6&style=flat" alt="pablofr73" /> </p>
 
