@@ -46,7 +46,7 @@ Desarrollador fullstack y apasionado de la ciberseguridad de CDMX. Ex-dev Androi
 
 ### 🖥 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,kotlin,php,python,cs,java,nodejs,react,bootstrap,dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,cs,dotnet,java,php,bootstrap,kotlin" height="50"/>
 </p>
 
 ### 🗄 Database
