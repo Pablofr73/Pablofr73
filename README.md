@@ -7,10 +7,10 @@
 ## 🌎 English / Español 🌍
 
 ### English
-Passionate cybersecurity professional from Mexico City. I previously worked as an Android and web developer. I enjoy video games and working on personal projects that are useful to me and can also benefit others.
+Full-stack developer and cybersecurity enthusiast from Mexico City. ex Android developer, game developer in my free time. I create personal projects – hope you like them too.
 
 ### Español
-Apasionado de la ciberseguridad de la Ciudad de México. Anteriormente trabajé como desarrollador de Android y web. Me gustan los videojuegos y hacer proyectos personales que sean útiles para mí y que también puedan servir a otros.
+Desarrollador fullstack y apasionado de la ciberseguridad de CDMX. Ex-dev Android, desarrollador de videojuegos en mi tiempo libre. Hago proyectos personales con la esperanza de que te gusten.
 
 ---
 
@@ -20,8 +20,8 @@ Apasionado de la ciberseguridad de la Ciudad de México. Anteriormente trabajé 
   <a href="https://www.linkedin.com/in/pablofr73/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
   </a>
-  <a href="https://x.com/PabloFR73" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/>
+  <!-- <a href="https://x.com/PabloFR73" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50"/> -->
   </a>
   <a href="https://open.spotify.com/user/lordlierfrog73?si=4_g___9LRE-V3ZOONKnCcQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="50"/>
@@ -46,7 +46,7 @@ Apasionado de la ciberseguridad de la Ciudad de México. Anteriormente trabajé 
 
 ### 🖥 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,go,kotlin,php,python,cs,java,nodejs,bootstrap,dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,kotlin,php,python,cs,java,nodejs,react,bootstrap,dotnet" height="50"/>
 </p>
 
 ### 🗄 Database
