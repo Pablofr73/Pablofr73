@@ -26,6 +26,10 @@ Desarrollador fullstack y apasionado de la ciberseguridad de CDMX. Ex-dev Androi
   <a href="https://open.spotify.com/user/lordlierfrog73?si=4_g___9LRE-V3ZOONKnCcQ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="50"/>
   </a>
+<a href="https://linktr.ee/pablofr73" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/1200px-Linktree_logo.svg.png" width="200" alt="Linktree"/>
+</a>
+
  <!-- <a href="#">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
   </a>
