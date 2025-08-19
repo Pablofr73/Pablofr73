@@ -4,6 +4,12 @@
   <img src="https://i.pinimg.com/originals/58/24/dc/5824dcc972593733f8d316ae623f0733.gif" height="200"/>
 </p>
 
+## 📲 Connect with me
+<p align="center">
+<a href="https://linktr.ee/pfr73" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/1200px-Linktree_logo.svg.png" width="200" alt="Linktree"/>
+</a>
+
 ## 🌎 English / Español 🌍
 
 ### English
@@ -11,14 +17,6 @@ Full-stack developer and cybersecurity enthusiast from Mexico City. ex Android d
 
 ### Español
 Desarrollador fullstack y apasionado de la ciberseguridad de CDMX. Ex-dev Android, desarrollador de videojuegos en mi tiempo libre. Hago proyectos personales con la esperanza de que te gusten.
-
----
-
-## 📲 Connect with me
-
-<a href="https://linktr.ee/pfr73" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/1200px-Linktree_logo.svg.png" width="200" alt="Linktree"/>
-</a>
 
  <!-- <a href="#">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
@@ -37,6 +35,7 @@ Desarrollador fullstack y apasionado de la ciberseguridad de CDMX. Ex-dev Androi
 ---
 
 ## 💻 Tech Stack
+
 
 ### 🖥 Programming Languages
 <p align="center">
